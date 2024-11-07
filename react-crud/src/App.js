@@ -10,7 +10,7 @@ function App() {
         <p>This is a React project created for assignment purposes.</p>
       </header>
       <section className="App-content">
-        <p>@csee_dhh</p>
+        <p>@22300248_HyeonhakDo</p>
       </section>
     </div>
   );
